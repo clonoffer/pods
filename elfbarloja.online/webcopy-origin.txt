@@ -1,0 +1,1248 @@
+Uri: https://cdn.shopify.com/s/files/1/0294/0374/2339/files/icon_btn_buy.svg?v=1617282791
+File Name: C:\Downloaded Web Sites\elfbarloja.online\s\files\1\0294\0374\2339\files\icon_btn_buy.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.shopify.com/s/files/1/0611/1471/2252/files/correios-logo_1.svg?v=1648167047
+File Name: C:\Downloaded Web Sites\elfbarloja.online\s\files\1\0611\1471\2252\files\correios-logo_1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\elfbarloja.online\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\elfbarloja.online\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\elfbarloja.online\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://elfbarloja.online/
+File Name: C:\Downloaded Web Sites\elfbarloja.online\index.htm
+Content Type: text/html
+
+Uri: https://elfbarloja.online/cart
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cart.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/cdn/shop/files/067935af41b29e1d4037e8cbc0164a06_1024x.webp?v=1719469922
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\067935af41b29e1d4037e8cbc0164a06_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/067935af41b29e1d4037e8cbc0164a06_800x.webp?v=1719469922
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\067935af41b29e1d4037e8cbc0164a06_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_405fa50c-a0f3-4893-a0a1-6a49ac24ed23_1024x.webp?v=1718166154
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_405fa50c-a0f3-4893-a0a1-6a49ac24ed23_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_405fa50c-a0f3-4893-a0a1-6a49ac24ed23_800x.webp?v=1718166154
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_405fa50c-a0f3-4893-a0a1-6a49ac24ed23_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_7dbf8f45-ea4c-4cc6-8b36-7f1186050101_1024x.webp?v=1718167579
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_7dbf8f45-ea4c-4cc6-8b36-7f1186050101_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_7dbf8f45-ea4c-4cc6-8b36-7f1186050101_800x.webp?v=1718167579
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\0CE7BD40-4638-4CD6-BCD7-9FFD43FE2789_800x_7dbf8f45-ea4c-4cc6-8b36-7f1186050101_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/11E08992-B7C2-4631-B12B-4483E7EB4C5F_800x_6cf793c8-58b4-4d8d-85b0-be5f3c560556_1024x.webp?v=1718166380
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\11E08992-B7C2-4631-B12B-4483E7EB4C5F_800x_6cf793c8-58b4-4d8d-85b0-be5f3c560556_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/11E08992-B7C2-4631-B12B-4483E7EB4C5F_800x_6cf793c8-58b4-4d8d-85b0-be5f3c560556_800x.webp?v=1718166380
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\11E08992-B7C2-4631-B12B-4483E7EB4C5F_800x_6cf793c8-58b4-4d8d-85b0-be5f3c560556_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/157773-300-300_1024x.webp?v=1719302780
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\157773-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/157773-300-300_800x.webp?v=1719302780
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\157773-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/157776-300-300_1024x.webp?v=1719302864
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\157776-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/157776-300-300_800x.webp?v=1719302864
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\157776-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/161367-300-300_1024x.webp?v=1719302951
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\161367-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/161367-300-300_800x.webp?v=1719302951
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\161367-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/165254-300-300_1024x.webp?v=1719349265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\165254-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/165254-300-300_800x.webp?v=1719349265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\165254-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/166225-300-300_1024x.webp?v=1719349661
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\166225-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/166225-300-300_800x.webp?v=1719349661
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\166225-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/169035-300-300_1024x.webp?v=1719261928
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\169035-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/169035-300-300_800x.webp?v=1719261928
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\169035-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172405-300-300_1024x.webp?v=1719262284
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172405-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172405-300-300_800x.webp?v=1719262284
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172405-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172457-300-300_1024x.webp?v=1719262187
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172457-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172457-300-300_800x.webp?v=1719262187
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172457-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172890-300-300_1024x.webp?v=1719263405
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172890-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/172890-300-300_800x.webp?v=1719263405
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\172890-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/173090-300-300_1024x.webp?v=1719303039
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\173090-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/173090-300-300_800x.webp?v=1719303039
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\173090-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/173208-300-300_1024x.webp?v=1719263264
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\173208-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/173208-300-300_800x.webp?v=1719263264
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\173208-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175039-300-300_1024x.webp?v=1719262782
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175039-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175039-300-300_800x.webp?v=1719262782
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175039-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175082-300-300_1024x.webp?v=1719262404
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175082-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175082-300-300_800x.webp?v=1719262404
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175082-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175118-300-300_1024x.webp?v=1719262589
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175118-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/175118-300-300_800x.webp?v=1719262589
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\175118-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/177910-300-300_1024x.webp?v=1719263538
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\177910-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/177910-300-300_800x.webp?v=1719263538
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\177910-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/177925-300-300_1024x.webp?v=1719262919
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\177925-300-300_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/177925-300-300_800x.webp?v=1719262919
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\177925-300-300_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/2963973F-F2A8-4056-9EBD-EFEC3516F135_600x_7c4e492d-f613-41a8-880e-758104225fbf_1024x.webp?v=1718166497
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\2963973F-F2A8-4056-9EBD-EFEC3516F135_600x_7c4e492d-f613-41a8-880e-758104225fbf_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/2963973F-F2A8-4056-9EBD-EFEC3516F135_600x_7c4e492d-f613-41a8-880e-758104225fbf_800x.webp?v=1718166497
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\2963973F-F2A8-4056-9EBD-EFEC3516F135_600x_7c4e492d-f613-41a8-880e-758104225fbf_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/2C0B5DF6-D758-4B47-8340-EB7B1DC745B9_600x_2f9ec04c-61eb-48c9-a337-9d264270becf_1024x.webp?v=1718165799
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\2C0B5DF6-D758-4B47-8340-EB7B1DC745B9_600x_2f9ec04c-61eb-48c9-a337-9d264270becf_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/2C0B5DF6-D758-4B47-8340-EB7B1DC745B9_600x_2f9ec04c-61eb-48c9-a337-9d264270becf_800x.webp?v=1718165799
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\2C0B5DF6-D758-4B47-8340-EB7B1DC745B9_600x_2f9ec04c-61eb-48c9-a337-9d264270becf_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/317ED304-4D43-462D-A51A-57F1DFC6E89D_800x_39379dc6-3fbd-40b5-aa12-3e2222b8bb75_1024x.webp?v=1718166832
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\317ED304-4D43-462D-A51A-57F1DFC6E89D_800x_39379dc6-3fbd-40b5-aa12-3e2222b8bb75_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/317ED304-4D43-462D-A51A-57F1DFC6E89D_800x_39379dc6-3fbd-40b5-aa12-3e2222b8bb75_800x.webp?v=1718166832
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\317ED304-4D43-462D-A51A-57F1DFC6E89D_800x_39379dc6-3fbd-40b5-aa12-3e2222b8bb75_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/3B0051C3-1B0B-4075-8187-B7876D62B6AD_800x_c92ab193-3446-4192-a08f-98d18ce84e12_1024x.webp?v=1718166837
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\3B0051C3-1B0B-4075-8187-B7876D62B6AD_800x_c92ab193-3446-4192-a08f-98d18ce84e12_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/3B0051C3-1B0B-4075-8187-B7876D62B6AD_800x_c92ab193-3446-4192-a08f-98d18ce84e12_800x.webp?v=1718166837
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\3B0051C3-1B0B-4075-8187-B7876D62B6AD_800x_c92ab193-3446-4192-a08f-98d18ce84e12_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/40FE9628-4DCC-4088-995A-3C471FD77435_600x_094ec3b5-f986-408f-af07-0cca4e678d98_1024x.webp?v=1718166651
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\40FE9628-4DCC-4088-995A-3C471FD77435_600x_094ec3b5-f986-408f-af07-0cca4e678d98_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/40FE9628-4DCC-4088-995A-3C471FD77435_600x_094ec3b5-f986-408f-af07-0cca4e678d98_800x.webp?v=1718166651
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\40FE9628-4DCC-4088-995A-3C471FD77435_600x_094ec3b5-f986-408f-af07-0cca4e678d98_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/5C613D77-35ED-493F-87A6-DBD540761C58_800x_dda94953-7037-43de-88c3-a38659c176ef_1024x.webp?v=1718166391
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\5C613D77-35ED-493F-87A6-DBD540761C58_800x_dda94953-7037-43de-88c3-a38659c176ef_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/5C613D77-35ED-493F-87A6-DBD540761C58_800x_dda94953-7037-43de-88c3-a38659c176ef_800x.webp?v=1718166391
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\5C613D77-35ED-493F-87A6-DBD540761C58_800x_dda94953-7037-43de-88c3-a38659c176ef_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/5FC439DC-2E5B-4F5C-9727-3BF955D79263_600x_8f31be0c-69ec-4392-a4f8-45b443c4eef3_1024x.webp?v=1718166853
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\5FC439DC-2E5B-4F5C-9727-3BF955D79263_600x_8f31be0c-69ec-4392-a4f8-45b443c4eef3_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/5FC439DC-2E5B-4F5C-9727-3BF955D79263_600x_8f31be0c-69ec-4392-a4f8-45b443c4eef3_800x.webp?v=1718166853
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\5FC439DC-2E5B-4F5C-9727-3BF955D79263_600x_8f31be0c-69ec-4392-a4f8-45b443c4eef3_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/6398314F-28F4-4B41-85F9-7EE0FB936284_600x_85cc6483-0fd3-4fad-aa83-c7c2ab8d4b8e_1024x.webp?v=1718167803
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\6398314F-28F4-4B41-85F9-7EE0FB936284_600x_85cc6483-0fd3-4fad-aa83-c7c2ab8d4b8e_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/6398314F-28F4-4B41-85F9-7EE0FB936284_600x_85cc6483-0fd3-4fad-aa83-c7c2ab8d4b8e_800x.webp?v=1718167803
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\6398314F-28F4-4B41-85F9-7EE0FB936284_600x_85cc6483-0fd3-4fad-aa83-c7c2ab8d4b8e_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/653EF1DF-9C51-4538-8025-FF0A9C8B3CCD_600x_8c9c2ccf-aef3-4cfa-98c6-f9653fc5f1f9_1024x.webp?v=1718166254
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\653EF1DF-9C51-4538-8025-FF0A9C8B3CCD_600x_8c9c2ccf-aef3-4cfa-98c6-f9653fc5f1f9_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/653EF1DF-9C51-4538-8025-FF0A9C8B3CCD_600x_8c9c2ccf-aef3-4cfa-98c6-f9653fc5f1f9_800x.webp?v=1718166254
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\653EF1DF-9C51-4538-8025-FF0A9C8B3CCD_600x_8c9c2ccf-aef3-4cfa-98c6-f9653fc5f1f9_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/67109C6A-602A-40B9-B479-AE4705C291F2_600x_7eb36f08-b942-4796-aa8f-599b191d1cb7_1024x.webp?v=1718167382
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\67109C6A-602A-40B9-B479-AE4705C291F2_600x_7eb36f08-b942-4796-aa8f-599b191d1cb7_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/67109C6A-602A-40B9-B479-AE4705C291F2_600x_7eb36f08-b942-4796-aa8f-599b191d1cb7_800x.webp?v=1718167382
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\67109C6A-602A-40B9-B479-AE4705C291F2_600x_7eb36f08-b942-4796-aa8f-599b191d1cb7_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/67109C6A-602A-40B9-B479-AE4705C291F2_600x_ac8cbaad-7b25-47ce-878e-a0ccaf7da4fb_1024x.webp?v=1718165531
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\67109C6A-602A-40B9-B479-AE4705C291F2_600x_ac8cbaad-7b25-47ce-878e-a0ccaf7da4fb_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/67109C6A-602A-40B9-B479-AE4705C291F2_600x_ac8cbaad-7b25-47ce-878e-a0ccaf7da4fb_800x.webp?v=1718165531
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\67109C6A-602A-40B9-B479-AE4705C291F2_600x_ac8cbaad-7b25-47ce-878e-a0ccaf7da4fb_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/6EB24311-4B91-4D05-94BB-B72C7CA90BB1_130x_501245e0-113d-4eb7-8d20-b858e3634a9f_1024x.webp?v=1718165547
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\6EB24311-4B91-4D05-94BB-B72C7CA90BB1_130x_501245e0-113d-4eb7-8d20-b858e3634a9f_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/6EB24311-4B91-4D05-94BB-B72C7CA90BB1_130x_501245e0-113d-4eb7-8d20-b858e3634a9f_800x.webp?v=1718165547
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\6EB24311-4B91-4D05-94BB-B72C7CA90BB1_130x_501245e0-113d-4eb7-8d20-b858e3634a9f_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/74802777-2010-4CC9-8BB2-BC76284363CF_600x_8c10ae61-6cca-47ab-8405-1ceab03f6526_1024x.webp?v=1718167032
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\74802777-2010-4CC9-8BB2-BC76284363CF_600x_8c10ae61-6cca-47ab-8405-1ceab03f6526_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/74802777-2010-4CC9-8BB2-BC76284363CF_600x_8c10ae61-6cca-47ab-8405-1ceab03f6526_800x.webp?v=1718167032
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\74802777-2010-4CC9-8BB2-BC76284363CF_600x_8c10ae61-6cca-47ab-8405-1ceab03f6526_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/76D942D2-FBD4-4335-8CD8-27DEF2597971_800x_12cf7c6a-bc4f-4429-87a5-4be549bf213e_1024x.webp?v=1718166673
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\76D942D2-FBD4-4335-8CD8-27DEF2597971_800x_12cf7c6a-bc4f-4429-87a5-4be549bf213e_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/76D942D2-FBD4-4335-8CD8-27DEF2597971_800x_12cf7c6a-bc4f-4429-87a5-4be549bf213e_800x.webp?v=1718166673
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\76D942D2-FBD4-4335-8CD8-27DEF2597971_800x_12cf7c6a-bc4f-4429-87a5-4be549bf213e_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/89130EFB-2DF6-4678-AC37-1DF7DF388E9D_800x_8ac08f9e-2260-468d-9d6d-71cce42daa41_1024x.webp?v=1718165809
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\89130EFB-2DF6-4678-AC37-1DF7DF388E9D_800x_8ac08f9e-2260-468d-9d6d-71cce42daa41_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/89130EFB-2DF6-4678-AC37-1DF7DF388E9D_800x_8ac08f9e-2260-468d-9d6d-71cce42daa41_800x.webp?v=1718165809
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\89130EFB-2DF6-4678-AC37-1DF7DF388E9D_800x_8ac08f9e-2260-468d-9d6d-71cce42daa41_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/8F07FE06-9721-4BB0-A2FE-75AA88230236_800x_e5e3ed48-80fa-42d1-9887-cde22504a978_1024x.webp?v=1718165562
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\8F07FE06-9721-4BB0-A2FE-75AA88230236_800x_e5e3ed48-80fa-42d1-9887-cde22504a978_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/8F07FE06-9721-4BB0-A2FE-75AA88230236_800x_e5e3ed48-80fa-42d1-9887-cde22504a978_800x.webp?v=1718165562
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\8F07FE06-9721-4BB0-A2FE-75AA88230236_800x_e5e3ed48-80fa-42d1-9887-cde22504a978_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/9E4CDE85-64E9-4A4A-B90F-81959E37C87D_800x_9a2db142-bc4d-4d80-bfd8-996b99121c18_1024x.webp?v=1718165942
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\9E4CDE85-64E9-4A4A-B90F-81959E37C87D_800x_9a2db142-bc4d-4d80-bfd8-996b99121c18_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/9E4CDE85-64E9-4A4A-B90F-81959E37C87D_800x_9a2db142-bc4d-4d80-bfd8-996b99121c18_800x.webp?v=1718165942
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\9E4CDE85-64E9-4A4A-B90F-81959E37C87D_800x_9a2db142-bc4d-4d80-bfd8-996b99121c18_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/B672D8C1-A9AD-453F-A40A-73FA7D457627_600x_a2e58ef6-8fde-4535-a902-7aa95d5678b2_1024x.webp?v=1718166372
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\B672D8C1-A9AD-453F-A40A-73FA7D457627_600x_a2e58ef6-8fde-4535-a902-7aa95d5678b2_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/B672D8C1-A9AD-453F-A40A-73FA7D457627_600x_a2e58ef6-8fde-4535-a902-7aa95d5678b2_800x.webp?v=1718166372
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\B672D8C1-A9AD-453F-A40A-73FA7D457627_600x_a2e58ef6-8fde-4535-a902-7aa95d5678b2_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Barrel-Strength_70cl_Front_final_2_1024x.webp?v=1718204408
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Barrel-Strength_70cl_Front_final_2_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/Barrel-Strength_70cl_Front_final_2_800x.webp?v=1718204408
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Barrel-Strength_70cl_Front_final_2_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/BR_apple_bottle_desktop_1024x.webp?v=1718203822
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\BR_apple_bottle_desktop_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/BR_apple_bottle_desktop_800x.webp?v=1718203822
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\BR_apple_bottle_desktop_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_00af2680-5c99-49aa-acd3-7e27c5818a7f_1024x.jpg?v=1719469841
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_00af2680-5c99-49aa-acd3-7e27c5818a7f_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_00af2680-5c99-49aa-acd3-7e27c5818a7f_800x.jpg?v=1719469841
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_00af2680-5c99-49aa-acd3-7e27c5818a7f_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_1024x.jpg?v=1719469374
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_52a7f112-28b8-4b6c-a4de-4406f0a2c5d2_1024x.jpg?v=1719470290
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_52a7f112-28b8-4b6c-a4de-4406f0a2c5d2_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_52a7f112-28b8-4b6c-a4de-4406f0a2c5d2_800x.jpg?v=1719470290
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_52a7f112-28b8-4b6c-a4de-4406f0a2c5d2_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_800x.jpg?v=1719469374
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/D_799603-MLB46812809159_072021-C_1024x.jpg?v=1719469046
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\D_799603-MLB46812809159_072021-C_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/D_799603-MLB46812809159_072021-C_7a48f71b-ecf9-4219-bf17-81e2044ef69a_1024x.jpg?v=1719470131
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\D_799603-MLB46812809159_072021-C_7a48f71b-ecf9-4219-bf17-81e2044ef69a_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/D_799603-MLB46812809159_072021-C_7a48f71b-ecf9-4219-bf17-81e2044ef69a_800x.jpg?v=1719470131
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\D_799603-MLB46812809159_072021-C_7a48f71b-ecf9-4219-bf17-81e2044ef69a_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/D_799603-MLB46812809159_072021-C_800x.jpg?v=1719469046
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\D_799603-MLB46812809159_072021-C_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/E37E3E02-A2F8-4F0E-B7A9-ECA48EC073C7_800x_77854f93-20fc-46b5-84a7-712762f2c31b_1024x.webp?v=1718167044
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\E37E3E02-A2F8-4F0E-B7A9-ECA48EC073C7_800x_77854f93-20fc-46b5-84a7-712762f2c31b_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/E37E3E02-A2F8-4F0E-B7A9-ECA48EC073C7_800x_77854f93-20fc-46b5-84a7-712762f2c31b_800x.webp?v=1718167044
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\E37E3E02-A2F8-4F0E-B7A9-ECA48EC073C7_800x_77854f93-20fc-46b5-84a7-712762f2c31b_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-BC-1000-Pod-Descartavel-174x178_1024x.jpg?v=1717621223
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-BC-1000-Pod-Descartavel-174x178_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-BC-1000-Pod-Descartavel-174x178_800x.jpg?v=1717621223
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-BC-1000-Pod-Descartavel-174x178_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-BC-1000-Pod-Descartavel-174x178_f518e40d-f2be-4878-bf67-62686b9b7e8a_1024x.jpg?v=1717622179
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-BC-1000-Pod-Descartavel-174x178_f518e40d-f2be-4878-bf67-62686b9b7e8a_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-BC-1000-Pod-Descartavel-174x178_f518e40d-f2be-4878-bf67-62686b9b7e8a_800x.jpg?v=1717622179
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-BC-1000-Pod-Descartavel-174x178_f518e40d-f2be-4878-bf67-62686b9b7e8a_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Blue-Razz-Ice-5500-Puff-Pod-descartavel-300x300_1024x.jpg?v=1717621910
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Blue-Razz-Ice-5500-Puff-Pod-descartavel-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Blue-Razz-Ice-5500-Puff-Pod-descartavel-300x300_800x.jpg?v=1717621910
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Blue-Razz-Ice-5500-Puff-Pod-descartavel-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Energy-5500-Puff-Pod-descartavel-300x300_1024x.jpg?v=1717622490
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Energy-5500-Puff-Pod-descartavel-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Energy-5500-Puff-Pod-descartavel-300x300_800x.jpg?v=1717622490
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Energy-5500-Puff-Pod-descartavel-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Grape-5500-Puff-Pod-descartavel-300x300_1024x.jpg?v=1717622398
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Grape-5500-Puff-Pod-descartavel-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Grape-5500-Puff-Pod-descartavel-300x300_800x.jpg?v=1717622398
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Grape-5500-Puff-Pod-descartavel-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Mint-5500-Puff-Pod-descartavel-300x300_1024x.jpg?v=1717621768
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Mint-5500-Puff-Pod-descartavel-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Mint-5500-Puff-Pod-descartavel-300x300_800x.jpg?v=1717621768
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Mint-5500-Puff-Pod-descartavel-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Mixed-Berries-5500-Puff-Pod-descartavel-300x300_1024x.jpg?v=1717622600
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Mixed-Berries-5500-Puff-Pod-descartavel-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-Lowit-Mixed-Berries-5500-Puff-Pod-descartavel-300x300_800x.jpg?v=1717622600
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-Lowit-Mixed-Berries-5500-Puff-Pod-descartavel-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_1024x.jpg?v=1717621548
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_120x.jpg?v=1717621548
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_120x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_800x.jpg?v=1717621548
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_aa684bc0-a992-4d88-8730-3b1ba53161fb_1024x.jpg?v=1717622285
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_aa684bc0-a992-4d88-8730-3b1ba53161fb_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_aa684bc0-a992-4d88-8730-3b1ba53161fb_800x.jpg?v=1717622285
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_aa684bc0-a992-4d88-8730-3b1ba53161fb_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Elf_Bar_logo_215x@2x.png?v=1717620493
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Elf_Bar_logo_215x@2x.png
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/F0ADFCBE-9715-47E1-86E6-029F6A081D9B_800x_87a16f4d-0eaa-405d-b6e2-4c234609fad0_1024x.webp?v=1718165827
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F0ADFCBE-9715-47E1-86E6-029F6A081D9B_800x_87a16f4d-0eaa-405d-b6e2-4c234609fad0_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/F0ADFCBE-9715-47E1-86E6-029F6A081D9B_800x_87a16f4d-0eaa-405d-b6e2-4c234609fad0_800x.webp?v=1718165827
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F0ADFCBE-9715-47E1-86E6-029F6A081D9B_800x_87a16f4d-0eaa-405d-b6e2-4c234609fad0_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/F0F7B847-1E84-4E5F-A7FE-7095A1F14CBF_800x_4a2ba968-ed4e-4f72-b41a-f7134742862f_1024x.webp?v=1718165933
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F0F7B847-1E84-4E5F-A7FE-7095A1F14CBF_800x_4a2ba968-ed4e-4f72-b41a-f7134742862f_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/F0F7B847-1E84-4E5F-A7FE-7095A1F14CBF_800x_4a2ba968-ed4e-4f72-b41a-f7134742862f_800x.webp?v=1718165933
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F0F7B847-1E84-4E5F-A7FE-7095A1F14CBF_800x_4a2ba968-ed4e-4f72-b41a-f7134742862f_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/F7C49371-91D9-43A7-80FB-A2CCA42C44C7_800x_51e53408-f07b-4521-8a21-b3a991cd2894_1024x.webp?v=1718166510
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F7C49371-91D9-43A7-80FB-A2CCA42C44C7_800x_51e53408-f07b-4521-8a21-b3a991cd2894_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/F7C49371-91D9-43A7-80FB-A2CCA42C44C7_800x_51e53408-f07b-4521-8a21-b3a991cd2894_800x.webp?v=1718166510
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\F7C49371-91D9-43A7-80FB-A2CCA42C44C7_800x_51e53408-f07b-4521-8a21-b3a991cd2894_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/FBE0E16E-AD0E-4205-A1F4-242744FD4B04_800x_b7cd85d3-c500-4316-9f28-0ab90c6981f5_1024x.webp?v=1718166523
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\FBE0E16E-AD0E-4205-A1F4-242744FD4B04_800x_b7cd85d3-c500-4316-9f28-0ab90c6981f5_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/FBE0E16E-AD0E-4205-A1F4-242744FD4B04_800x_b7cd85d3-c500-4316-9f28-0ab90c6981f5_800x.webp?v=1718166523
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\FBE0E16E-AD0E-4205-A1F4-242744FD4B04_800x_b7cd85d3-c500-4316-9f28-0ab90c6981f5_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/FD3436A2-3199-4E02-B2CA-2B399E486833_600x_24fba1ef-a504-4d60-a366-ae3adbe18dc9_1024x.webp?v=1718165924
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\FD3436A2-3199-4E02-B2CA-2B399E486833_600x_24fba1ef-a504-4d60-a366-ae3adbe18dc9_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/FD3436A2-3199-4E02-B2CA-2B399E486833_600x_24fba1ef-a504-4d60-a366-ae3adbe18dc9_800x.webp?v=1718165924
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\FD3436A2-3199-4E02-B2CA-2B399E486833_600x_24fba1ef-a504-4d60-a366-ae3adbe18dc9_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/gentleman_jack_01_1024x.webp?v=1718204040
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\gentleman_jack_01_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/gentleman_jack_01_800x.webp?v=1718204040
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\gentleman_jack_01_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/hei5_1024x.png?v=1719469986
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\hei5_1024x.png
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/hei5_800x.png?v=1719469986
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\hei5_800x.png
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/hei5_9c18b354-2a44-4290-a4db-333440532fff_1024x.png?v=1719470201
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\hei5_9c18b354-2a44-4290-a4db-333440532fff_1024x.png
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/hei5_9c18b354-2a44-4290-a4db-333440532fff_800x.png?v=1719470201
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\hei5_9c18b354-2a44-4290-a4db-333440532fff_800x.png
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/JDTFBottleshotonBlack_10_1024x.webp?v=1718203935
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\JDTFBottleshotonBlack_10_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/JDTFBottleshotonBlack_10_800x.webp?v=1718203935
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\JDTFBottleshotonBlack_10_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/layout_en_banner_start_big-1920_8_default_1200x.webp?v=1717620952
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\layout_en_banner_start_big-1920_8_default_1200x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/layout_en_banner_start_big-1920_8_default_800x.webp?v=1717620952
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\layout_en_banner_start_big-1920_8_default_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Nike-Dunk-Low-Cacao-Wow-Womens-Product_800x_da0e0306-9e2c-4112-b823-3dd2da348214_1024x.webp?v=1718167652
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Nike-Dunk-Low-Cacao-Wow-Womens-Product_800x_da0e0306-9e2c-4112-b823-3dd2da348214_1024x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Nike-Dunk-Low-Cacao-Wow-Womens-Product_800x_da0e0306-9e2c-4112-b823-3dd2da348214_800x.webp?v=1718167652
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Nike-Dunk-Low-Cacao-Wow-Womens-Product_800x_da0e0306-9e2c-4112-b823-3dd2da348214_800x.webp
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/old_no7_01_0_1024x.webp?v=1718203514
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\old_no7_01_0_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/old_no7_01_0_800x.webp?v=1718203514
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\old_no7_01_0_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/Pod-Descartavel-Elf-Bar-EW-9000-300x300_1024x.jpg?v=1717622006
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Pod-Descartavel-Elf-Bar-EW-9000-300x300_1024x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/Pod-Descartavel-Elf-Bar-EW-9000-300x300_800x.jpg?v=1717622006
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\Pod-Descartavel-Elf-Bar-EW-9000-300x300_800x.jpg
+Content Type: image/jpeg
+
+Uri: https://elfbarloja.online/cdn/shop/files/single_barrel_rye_01_1024x.webp?v=1718204292
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\single_barrel_rye_01_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/single_barrel_rye_01_800x.webp?v=1718204292
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\single_barrel_rye_01_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/single_barrel_select_01_1_1024x.webp?v=1718204177
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\single_barrel_select_01_1_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/single_barrel_select_01_1_800x.webp?v=1718204177
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\single_barrel_select_01_1_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/tennesee_honey_01_1024x.webp?v=1718203739
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\tennesee_honey_01_1024x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/files/tennesee_honey_01_800x.webp?v=1718203739
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\files\tennesee_honey_01_800x.webp
+Content Type: image/png
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/custom.js?v=112171511692518087411717620265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\custom.js
+Content Type: text/javascript
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/font-theme-star.eot?%23iefix&v=178649971611478077551717620265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\font-theme-star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/font-theme-star.eot?v=178649971611478077551717620265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\font-theme-star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/font-theme-star.ttf?v=17527569363257290761717620265
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\font-theme-star.ttf
+Content Type: font/woff2
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/font-theme-star.woff2?v=176977276741202493121717620266
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\font-theme-star.woff2
+Content Type: font/woff2
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/theme.css?v=102977086497766031711717620266
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\theme.css
+Content Type: text/css
+
+Uri: https://elfbarloja.online/cdn/shop/t/2/assets/theme.min.js?v=95470125122027642561717620266
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shop\t\2\assets\theme.min.js
+Content Type: text/javascript
+
+Uri: https://elfbarloja.online/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shopifycloud\shopify\assets\no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_600x.gif
+Content Type: image/gif
+
+Uri: https://elfbarloja.online/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: text/javascript
+
+Uri: https://elfbarloja.online/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Downloaded Web Sites\elfbarloja.online\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: text/javascript
+
+Uri: https://elfbarloja.online/checkouts/internal/preloads.js?locale=pt-BR
+File Name: C:\Downloaded Web Sites\elfbarloja.online\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://elfbarloja.online/collections/all
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\all.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/all.atom
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\all.atom
+Content Type: application/atom+xml
+
+Uri: https://elfbarloja.online/collections/all?page=1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\all-3.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/all?page=2
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\all-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/all?page=3
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\all-2.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar.atom
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar.atom
+Content Type: application/atom+xml
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/elf-bar-bc-10000-pod-descartavel-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\elf-bar-bc-10000-pod-descartavel-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/elf-bar-lowit-energy-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\elf-bar-lowit-energy-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/elf-bar-lowit-grape-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\elf-bar-lowit-grape-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/elf-bar-ti7000-puffs-funky-republic-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\elf-bar-ti7000-puffs-funky-republic-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/colecao-elf-bar/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\colecao-elf-bar\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes.atom
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes.atom
+Content Type: application/atom+xml
+
+Uri: https://elfbarloja.online/collections/promocoes.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/collections/promocoes/products/2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes\products\2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes/products/2-elf-bar-lowit-mint-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes\products\2-elf-bar-lowit-mint-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes/products/3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes\products\3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes/products/elf-bar-bc-10000-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes\products\elf-bar-bc-10000-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/collections/promocoes/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis
+File Name: C:\Downloaded Web Sites\elfbarloja.online\collections\promocoes\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/1-barril-de-heineken-5-litros
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\1-barril-de-heineken-5-litros.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/1-barril-de-heineken-5-litros.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\1-barril-de-heineken-5-litros.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/2-barris-de-heineken-5-litros
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-barris-de-heineken-5-litros.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/2-barris-de-heineken-5-litros.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-barris-de-heineken-5-litros.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-elf-bar-lowit-blue-razz-ice-5500-puff-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/2-elf-bar-lowit-mint-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-elf-bar-lowit-mint-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/2-elf-bar-lowit-mint-5500-puff-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\2-elf-bar-lowit-mint-5500-puff-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\3-elf-bar-ti7000-puffs-funky-republic-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-future-preto
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-advant-x-carbon-future-preto.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-future-preto.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-advant-x-carbon-future-preto.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-solid
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-advant-x-carbon-solid.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-solid.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-advant-x-carbon-solid.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-infinity-ii-c-solid-carbon.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon-fosco
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-infinity-ii-c-solid-carbon-fosco.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon-fosco.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-infinity-ii-c-solid-carbon-fosco.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-infinity-ii-c-solid-carbon.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-racing-1-azul
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-racing-1-azul.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-racing-1-azul.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-racing-1-azul.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-rainbow
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-rainbow.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-rainbow.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-rainbow.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-space
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-space.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-ls2-thunder-carbon-space.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-ls2-thunder-carbon-space.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-absolute-azul
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-absolute-azul.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-absolute-azul.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-absolute-azul.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-absolute-cinza
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-absolute-cinza.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-absolute-cinza.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-absolute-cinza.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-tropical-preto
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-tropical-preto.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/capacete-vector-ii-tropical-preto.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\capacete-vector-ii-tropical-preto.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-1-unidade-long-neck-330ml
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-1-unidade-long-neck-330ml.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-1-unidade-long-neck-330ml.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-1-unidade-long-neck-330ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-24-unidades-long-neck-330ml.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-24-unidades-long-neck-330ml-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-24-unidades-long-neck-330ml-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-24-unidades-long-neck-330ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-240-unidades-long-neck-330ml-atacado
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-240-unidades-long-neck-330ml-atacado.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/cerveja-heineken-240-unidades-long-neck-330ml-atacado.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\cerveja-heineken-240-unidades-long-neck-330ml-atacado.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-bc-10000-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-bc-10000-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-bc-10000-pod-descartavel-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-bc-10000-pod-descartavel-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-bc-10000-pod-descartavel-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-bc-10000-pod-descartavel-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-bc-10000-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-bc-10000-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-energy-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-energy-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-energy-5500-puff-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-energy-5500-puff-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-grape-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-grape-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-grape-5500-puff-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-grape-5500-puff-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/elf-bar-ti7000-puffs-funky-republic-pod-descartavel
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-ti7000-puffs-funky-republic-pod-descartavel.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/elf-bar-ti7000-puffs-funky-republic-pod-descartavel.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\elf-bar-ti7000-puffs-funky-republic-pod-descartavel.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-canela-jack-daniels-tennessee-fire-1-litro
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-canela-jack-daniels-tennessee-fire-1-litro.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-canela-jack-daniels-tennessee-fire-1-litro.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-canela-jack-daniels-tennessee-fire-1-litro.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-maca-verde-jack-daniels-tennessee-apple-1-litro
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-maca-verde-jack-daniels-tennessee-apple-1-litro.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-maca-verde-jack-daniels-tennessee-apple-1-litro.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-maca-verde-jack-daniels-tennessee-apple-1-litro.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-mel-jack-daniels-tennessee-honey-1-litro
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-mel-jack-daniels-tennessee-honey-1-litro.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-licor-americano-whisky-e-mel-jack-daniels-tennessee-honey-1-litro.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-licor-americano-whisky-e-mel-jack-daniels-tennessee-honey-1-litro.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-rye
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-rye.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-rye.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-rye.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-select-750ml
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-select-750ml.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-select-750ml.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-select-750ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-strength
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-strength.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-single-barrel-strength.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-single-barrel-strength.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-super-premium-jack-daniels-gentleman-1000ml
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-super-premium-jack-daniels-gentleman-1000ml.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jack-daniels-whisky-americano-super-premium-jack-daniels-gentleman-1000ml.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jack-daniels-whisky-americano-super-premium-jack-daniels-gentleman-1000ml.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jordan-1-low-diamond-shorts
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jordan-1-low-diamond-shorts.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jordan-1-low-diamond-shorts.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jordan-1-low-diamond-shorts.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/jordan-1-low-wolf-grey
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jordan-1-low-wolf-grey.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/jordan-1-low-wolf-grey.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\jordan-1-low-wolf-grey.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-black
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-black.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-black.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-black.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-panda
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-panda.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-panda.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-panda.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-white
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-white.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-air-force-1-white.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-force-1-white.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-air-max-1-97-sean-wotherspoon
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-max-1-97-sean-wotherspoon.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-air-max-1-97-sean-wotherspoon.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-air-max-1-97-sean-wotherspoon.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-cacao-wow
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-cacao-wow.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-cacao-wow.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-cacao-wow.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-grey-fog
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-grey-fog.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-grey-fog-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-grey-fog-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-grey-fog-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-grey-fog-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-grey-fog.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-grey-fog.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-michigan-state
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-michigan-state.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-michigan-state-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-michigan-state-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-michigan-state-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-michigan-state-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-michigan-state.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-michigan-state.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-black-white-panda
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-black-white-panda.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-black-white-panda-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-black-white-panda-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-black-white-panda-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-black-white-panda-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-black-white-panda.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-black-white-panda.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-reverse-panda
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-reverse-panda.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-retro-reverse-panda.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-retro-reverse-panda.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-unc
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-unc.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-unc-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-unc-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-unc-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-unc-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/nike-dunk-low-unc.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\nike-dunk-low-unc.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/pack-c-12-cervejas-heineken-350ml-lata
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pack-c-12-cervejas-heineken-350ml-lata.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/pack-c-12-cervejas-heineken-350ml-lata.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pack-c-12-cervejas-heineken-350ml-lata.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/pack-c-120-cervejas-heineken-350ml-lata-atacado
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pack-c-120-cervejas-heineken-350ml-lata-atacado.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/pack-c-120-cervejas-heineken-350ml-lata-atacado.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pack-c-120-cervejas-heineken-350ml-lata-atacado.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-camaleao
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-classic-ff396-camaleao.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-camaleao.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-classic-ff396-camaleao.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-fume
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-classic-ff396-fume.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-fume.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-classic-ff396-fume.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-scope-fume
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-scope-fume.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-scope-fume.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-scope-fume.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-cinza
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-cinza.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-cinza.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-cinza.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-dourada
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-dourada.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-dourada.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-dourada.oembed
+Content Type: application/json+oembed
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-fume-claro
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-fume-claro.html
+Content Type: text/html
+
+Uri: https://elfbarloja.online/products/viseira-capacete-ls2-thunder-fume-claro.oembed
+File Name: C:\Downloaded Web Sites\elfbarloja.online\products\viseira-capacete-ls2-thunder-fume-claro.oembed
+Content Type: application/json+oembed
+
+Uri: https://polyfill-fastly.net/v3/polyfill.min.js?unknown=polyfill&features=fetch,Element.prototype.closest,Element.prototype.matches,Element.prototype.remove,Element.prototype.classList,Array.prototype.includes,Array.prototype.fill,String.prototype.includes,String.prototype.padStart,Object.assign,CustomEvent,Intl,URL,DOMTokenList,IntersectionObserver,IntersectionObserverEntry
+File Name: C:\Downloaded Web Sites\elfbarloja.online\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://shop.app/checkouts/internal/preloads.js?locale=pt-BR&shop_id=88171708698
+File Name: C:\Downloaded Web Sites\elfbarloja.online\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elfbarloja.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elfbarloja.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elfbarloja.online/collections/all.atom"/>
+  <title>ELF BAR BRASIL</title>
+  <updated>2024-06-27T03:39:06-03:00</updated>
+  <author>
+    <name>ELF BAR BRASIL</name>
+  </author>
+  <entry>
+    <id>https://elfbarloja.online/products/9483175657754</id>
+    <published>2024-06-27T03:39:06-03:00</published>
+    <updated>2024-06-27T03:39:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/cerveja-heineken-240-unidades-long-neck-330ml-atacado"/>
+    <title>Cerveja Heineken 240 Únidades Long Neck 330ml (ATACADO)</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_52a7f112-28b8-4b6c-a4de-4406f0a2c5d2.jpg?v=1719470290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483175657754</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483163369754</id>
+    <published>2024-06-27T03:37:23-03:00</published>
+    <updated>2024-06-27T03:37:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/pack-c-120-cervejas-heineken-350ml-lata-atacado"/>
+    <title>Pack c/ 120 Cervejas Heineken 350ml lata (ATACADO)</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/hei5_9c18b354-2a44-4290-a4db-333440532fff.png?v=1719470201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483163369754</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">510.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483157012762</id>
+    <published>2024-06-27T03:35:48-03:00</published>
+    <updated>2024-06-27T03:35:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/1-barril-de-heineken-5-litros"/>
+    <title>1 Barril de Heineken 5 Litros</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/D_799603-MLB46812809159_072021-C_7a48f71b-ecf9-4219-bf17-81e2044ef69a.jpg?v=1719470131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            99.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483157012762</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483147641114</id>
+    <published>2024-06-27T03:34:16-03:00</published>
+    <updated>2024-06-27T03:34:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/pack-c-12-cervejas-heineken-350ml-lata"/>
+    <title>Pack c/ 12 Cervejas Heineken 350ml lata</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/hei5.png?v=1719469986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483147641114</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483130470682</id>
+    <published>2024-06-27T03:32:20-03:00</published>
+    <updated>2024-06-27T03:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/cerveja-heineken-1-unidade-long-neck-330ml"/>
+    <title>Cerveja Heineken 1 Únidade Long Neck 330ml</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/067935af41b29e1d4037e8cbc0164a06.webp?v=1719469922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483130470682</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483121230106</id>
+    <published>2024-06-27T03:31:07-03:00</published>
+    <updated>2024-06-27T03:31:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml-1"/>
+    <title>Cerveja Heineken 24 Únidades Long Neck 330ml</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0_00af2680-5c99-49aa-acd3-7e27c5818a7f.jpg?v=1719469841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483121230106</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">148.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483062706458</id>
+    <published>2024-06-27T03:23:17-03:00</published>
+    <updated>2024-06-27T03:23:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/cerveja-heineken-24-unidades-long-neck-330ml"/>
+    <title>Cerveja Heineken 24 Únidades Long Neck 330ml</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/dedf124bfb6e5cf2a1e3611bb27b2020-ffbe9500aba5d7f46e17174444996391-640-0.jpg?v=1719469374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483062706458</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9483036033306</id>
+    <published>2024-06-27T03:19:44-03:00</published>
+    <updated>2024-06-27T03:19:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/2-barris-de-heineken-5-litros"/>
+    <title>2 Barris de Heineken 5 Litros</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/D_799603-MLB46812809159_072021-C.jpg?v=1719469046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9483036033306</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9476795203866</id>
+    <published>2024-06-25T18:08:09-03:00</published>
+    <updated>2024-06-25T18:08:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-thunder-cinza"/>
+    <title>VISEIRA CAPACETE LS2 THUNDER CINZA</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/166225-300-300.webp?v=1719349661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            379.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 FF805 THUNDER, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span><br><span>Viseira de 2 mm com proteção UV, resistente a risco.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9476795203866</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9476781867290</id>
+    <published>2024-06-25T18:01:18-03:00</published>
+    <updated>2024-06-25T18:01:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-thunder-dourada"/>
+    <title>VISEIRA CAPACETE LS2 THUNDER DOURADA</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/165254-300-300.webp?v=1719349265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            379.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 FF805 THUNDER, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span><br><span>Viseira de 2 mm com proteção UV, resistente a risco.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9476781867290</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471854248218</id>
+    <published>2024-06-25T05:10:41-03:00</published>
+    <updated>2024-06-25T05:10:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-thunder-fume-claro"/>
+    <title>VISEIRA CAPACETE LS2 THUNDER FUME CLARO</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/173090-300-300.webp?v=1719303039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            379.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 FF805 THUNDER, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span><br><span>Viseira de 2 mm com proteção UV, resistente a risco.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471854248218</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">379.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471851462938</id>
+    <published>2024-06-25T05:09:18-03:00</published>
+    <updated>2024-06-25T05:09:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-scope-fume"/>
+    <title>VISEIRA CAPACETE LS2 SCOPE FUME</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/161367-300-300.webp?v=1719302951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 ARROW FF323, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471851462938</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471849529626</id>
+    <published>2024-06-25T05:08:10-03:00</published>
+    <updated>2024-06-25T05:08:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-camaleao"/>
+    <title>VISEIRA CAPACETE LS2 CLASSIC/FF396 CAMALEÃO</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/157776-300-300.webp?v=1719302864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            139.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 FF358 CLASSIC E FF396, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span><br><span>Viseira de 2 mm com proteção UV, resistente a risco.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471849529626</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">139.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471846875418</id>
+    <published>2024-06-25T05:06:47-03:00</published>
+    <updated>2024-06-25T05:06:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/viseira-capacete-ls2-classic-ff396-fume"/>
+    <title>VISEIRA CAPACETE LS2 CLASSIC/FF396 FUME</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/157773-300-300.webp?v=1719302780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            139.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>As peças dos capacetes LS2 são itens de reposição que possuem as mesmas características dos itens originais que acompanham o produto.</span><br><span>Este acessório serve para o Capacete LS2 FF358 CLASSIC E FF396, esse é um item removível, garantindo fácil manutenção e segurança durante a pilotagem.</span><br><span>Viseira de 2 mm com proteção UV, resistente a risco.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471846875418</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">139.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471031935258</id>
+    <published>2024-06-24T18:10:16-03:00</published>
+    <updated>2024-06-24T18:10:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-future-preto"/>
+    <title>CAPACETE LS2 ADVANT X CARBON FUTURE PRETO</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/172890-300-300.webp?v=1719263405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            62.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">A LS2 apresenta o FF901 ADVANT X CARBON, um capacete articulado totalmente novo e desenvolvido de acordo com a mais exigente norma ECE 22. 06, é o capacete articulado mais avançado do mercado.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O ADVANT X CARBON não só cumpre as mais recentes regulamentações e padrões de segurança, como apresenta um design exclusivo e compacto, e conta com o mais moderno método de fabricação.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O LS2 ADVANT X CARBON é o único capacete articulado totalmente em fibra de carbono do mercado, incluindo a queixeira com movimentação de 180 graus, oferecendo ainda mais leveza e segurança para o motociclista. Perfeito para qualquer tipo de pilotagem e para todas as condições climáticas. Viseira anti-risco, preparado para uso de Pinlock® e conta com viseira solar rebatível. O LS2 FF901 ADVANT X CARBON vem acompanhado de uma mochila, viseira fumê e Pinlock® 120 Max Vision.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">CARACTERÍSTICAS:</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">• Casco em fibra de carbono, possui alta capacidade de absorção de impactos, conforme as normas mundiais de segurança;<br>• Peso:1550g (+-50g);<br>• Dupla homologação ECE 22. 06 (Aberto e Fechado);<br>• Sistema de liberação de emergência;<br>• Fecho micrométrico em metal;<br>• EPS canaletado de múltipla densidade;<br>• Alça de queixo reforçada;<br>• Múltiplas entradas e saídas de ar para maior conforto térmico;<br>• Espuma cortada a laser e forração com tecido patenteado X-Static;<br>• Forração hipoalergênica, removível e lavável;<br>• Preparado para intercomunicador (INTERCOM LS2/CARDO);<br>• Viseira resistente a riscos e com proteção UV;<br>• Conta com sistema rápido e eficiente de troca de viseira.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471031935258</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">62.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471030755610</id>
+    <published>2024-06-24T18:08:12-03:00</published>
+    <updated>2024-06-24T18:08:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-advant-x-carbon-solid"/>
+    <title>CAPACETE LS2 ADVANT X CARBON SOLID</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/173208-300-300.webp?v=1719263264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            62.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">A LS2 apresenta o FF901 ADVANT X CARBON, um capacete articulado totalmente novo e desenvolvido de acordo com a mais exigente norma ECE 22. 06, é o capacete articulado mais avançado do mercado.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O ADVANT X CARBON não só cumpre as mais recentes regulamentações e padrões de segurança, como apresenta um design exclusivo e compacto, e conta com o mais moderno método de fabricação.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O LS2 ADVANT X CARBON é o único capacete articulado totalmente em fibra de carbono do mercado, incluindo a queixeira com movimentação de 180 graus, oferecendo ainda mais leveza e segurança para o motociclista. Perfeito para qualquer tipo de pilotagem e para todas as condições climáticas. Viseira anti-risco, preparado para uso de Pinlock® e conta com viseira solar rebatível. O LS2 FF901 ADVANT X CARBON vem acompanhado de uma mochila, viseira fumê e Pinlock® 120 Max Vision.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">CARACTERÍSTICAS:</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">• Casco em fibra de carbono, possui alta capacidade de absorção de impactos, conforme as normas mundiais de segurança;<br>• Peso:1550g (+-50g);<br>• Dupla homologação ECE 22. 06 (Aberto e Fechado);<br>• Sistema de liberação de emergência;<br>• Fecho micrométrico em metal;<br>• EPS canaletado de múltipla densidade;<br>• Alça de queixo reforçada;<br>• Múltiplas entradas e saídas de ar para maior conforto térmico;<br>• Espuma cortada a laser e forração com tecido patenteado X-Static;<br>• Forração hipoalergênica, removível e lavável;<br>• Preparado para intercomunicador (INTERCOM LS2/CARDO);<br>• Viseira resistente a riscos e com proteção UV;<br>• Conta com sistema rápido e eficiente de troca de viseira.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471030755610</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">62.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471029018906</id>
+    <published>2024-06-24T18:05:55-03:00</published>
+    <updated>2024-06-24T18:05:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-vector-ii-absolute-azul"/>
+    <title>CAPACETE VECTOR II ABSOLUTE AZUL</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/177910-300-300.webp?v=1719263538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">O Vector II é um capacete versátil e completo, ideal para motociclistas que buscam um equipamento para diversas situações de pilotagem, como touring, naked, trail e big trail. Com sua composição HPFC, que combina fibras laminadas de vidro, carbono e aramida com resina orgânica leve e ultra resistente, o capacete garante conforto e segurança durante horas de uso na cidade ou na estrada. Além disso, o Vector II atende à nova lei de homologação de capacetes, a 22.06, que é mais severa em relação aos testes de impacto, descalçamento e perfuração, e tem multi densidades EPS para melhor absorção de impacto em caso de queda.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Com um peso de 1.540 gramas, o Vector II é leve e confortável, e seu design long-oval oferece a melhor aerodinâmica e um amplo campo de visão vertical e lateral, comum nos capacetes esportivos. A viseira em policarbonato classe A possui tratamento anti-risco e UV, e já está preparada para pinlock, além de contar com um suporte exclusivo feito em alumínio com 5 estágios de abertura e troca fácil sem o uso de ferramentas.<br>A forração Extra Comfort é hipoalergênica e removível, enquanto o fecho micrométrico em aço com acabamento primoroso e imã garante ainda mais segurança ao sistema. O Vector II também possui um sistema de circulação de ar frontal que direciona o ar para a viseira e areja o motociclista, além de uma bavete removível para mais ventilação quando necessário.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471029018906</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471026790682</id>
+    <published>2024-06-24T18:02:57-03:00</published>
+    <updated>2024-06-24T18:02:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-vector-ii-absolute-cinza"/>
+    <title>CAPACETE VECTOR II ABSOLUTE CINZA</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/177925-300-300.webp?v=1719262919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">O Vector II é um capacete versátil e completo, ideal para motociclistas que buscam um equipamento para diversas situações de pilotagem, como touring, naked, trail e big trail. Com sua composição HPFC, que combina fibras laminadas de vidro, carbono e aramida com resina orgânica leve e ultra resistente, o capacete garante conforto e segurança durante horas de uso na cidade ou na estrada. Além disso, o Vector II atende à nova lei de homologação de capacetes, a 22.06, que é mais severa em relação aos testes de impacto, descalçamento e perfuração, e tem multi densidades EPS para melhor absorção de impacto em caso de queda.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Com um peso de 1.540 gramas, o Vector II é leve e confortável, e seu design long-oval oferece a melhor aerodinâmica e um amplo campo de visão vertical e lateral, comum nos capacetes esportivos. A viseira em policarbonato classe A possui tratamento anti-risco e UV, e já está preparada para pinlock, além de contar com um suporte exclusivo feito em alumínio com 5 estágios de abertura e troca fácil sem o uso de ferramentas.<br>A forração Extra Comfort é hipoalergênica e removível, enquanto o fecho micrométrico em aço com acabamento primoroso e imã garante ainda mais segurança ao sistema. O Vector II também possui um sistema de circulação de ar frontal que direciona o ar para a viseira e areja o motociclista, além de uma bavete removível para mais ventilação quando necessário.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471026790682</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471024529690</id>
+    <published>2024-06-24T18:00:24-03:00</published>
+    <updated>2024-06-24T18:00:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-vector-ii-tropical-preto"/>
+    <title>CAPACETE VECTOR II TROPICAL PRETO</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/175039-300-300.webp?v=1719262782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">O Vector II é um capacete versátil e completo, ideal para motociclistas que buscam um equipamento para diversas situações de pilotagem, como touring, naked, trail e big trail. Com sua composição HPFC, que combina fibras laminadas de vidro, carbono e aramida com resina orgânica leve e ultra resistente, o capacete garante conforto e segurança durante horas de uso na cidade ou na estrada. Além disso, o Vector II atende à nova lei de homologação de capacetes, a 22.06, que é mais severa em relação aos testes de impacto, descalçamento e perfuração, e tem multi densidades EPS para melhor absorção de impacto em caso de queda.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Com um peso de 1.540 gramas, o Vector II é leve e confortável, e seu design long-oval oferece a melhor aerodinâmica e um amplo campo de visão vertical e lateral, comum nos capacetes esportivos. A viseira em policarbonato classe A possui tratamento anti-risco e UV, e já está preparada para pinlock, além de contar com um suporte exclusivo feito em alumínio com 5 estágios de abertura e troca fácil sem o uso de ferramentas.<br>A forração Extra Comfort é hipoalergênica e removível, enquanto o fecho micrométrico em aço com acabamento primoroso e imã garante ainda mais segurança ao sistema. O Vector II também possui um sistema de circulação de ar frontal que direciona o ar para a viseira e areja o motociclista, além de uma bavete removível para mais ventilação quando necessário.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471024529690</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471021285658</id>
+    <published>2024-06-24T17:56:49-03:00</published>
+    <updated>2024-06-24T17:56:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon"/>
+    <title>CAPACETE LS2 INFINITY II C SOLID CARBON</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/175118-300-300.webp?v=1719262589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            37.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">A melhor combinação para pilotos que desejam proteção e a liberdade de um capacete aberto. Leve e seguro graças à sua fibra de carbono. Design com muito estilo e arrojo para uso no dia a dia. Perfeito para pilotar na cidade. Conta com duas entradas de ar superiores. Viseira anti-riscos preparada para Pinlock Max Vision e conta com trava de viseira para uma pilotagem mais segura. Apresenta viseira solar rebatível.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">CARACTERÍSTICAS:</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">• Casco em fibra de carbono para maior leveza e segurança;<br>• Peso: 1300g (+-50g);<br>• Homologação europeia ECE 22. 06;<br>• Sistema de liberação de emergência;<br>• Fecho micrométrico em metal;<br>• EPS canaletado de múltipla densidade;<br>• Alça de queixo reforçada;<br>• Entradas de ar superiores;<br>• Espuma cortada a laser e forração com tecido patenteado X-Static;<br>• Forração hipoalergênica, removível e lavável;<br>• Preparado para intercomunicador (INTERCOM LS2/CARDO);<br>• Viseira resistente a riscos e com proteção UV;<br>• Trava de viseira;<br>• Preparado para Pinlock 70 Max Vision;<br>• Conta com sistema rápido e eficiente de troca de viseira.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471021285658</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">37.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471019122970</id>
+    <published>2024-06-24T17:54:06-03:00</published>
+    <updated>2024-06-24T17:54:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-infinity-ii-c-solid-carbon-fosco"/>
+    <title>CAPACETE LS2 INFINITY II C SOLID CARBON FOSCO</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/175082-300-300.webp?v=1719262404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            37.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">A melhor combinação para pilotos que desejam proteção e a liberdade de um capacete aberto. Leve e seguro graças à sua fibra de carbono. Design com muito estilo e arrojo para uso no dia a dia. Perfeito para pilotar na cidade. Conta com duas entradas de ar superiores. Viseira anti-riscos preparada para Pinlock Max Vision e conta com trava de viseira para uma pilotagem mais segura. Apresenta viseira solar rebatível.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">CARACTERÍSTICAS:</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">• Casco em fibra de carbono para maior leveza e segurança;<br>• Peso: 1300g (+-50g);<br>• Homologação europeia ECE 22. 06;<br>• Sistema de liberação de emergência;<br>• Fecho micrométrico em metal;<br>• EPS canaletado de múltipla densidade;<br>• Alça de queixo reforçada;<br>• Entradas de ar superiores;<br>• Espuma cortada a laser e forração com tecido patenteado X-Static;<br>• Forração hipoalergênica, removível e lavável;<br>• Preparado para intercomunicador (INTERCOM LS2/CARDO);<br>• Viseira resistente a riscos e com proteção UV;<br>• Trava de viseira;<br>• Preparado para Pinlock 70 Max Vision;<br>• Conta com sistema rápido e eficiente de troca de viseira.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471019122970</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">37.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471017419034</id>
+    <published>2024-06-24T17:51:59-03:00</published>
+    <updated>2024-06-24T17:51:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-thunder-carbon-rainbow"/>
+    <title>CAPACETE LS2 THUNDER CARBON RAINBOW</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/172405-300-300.webp?v=1719262284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            49.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">LS2 THUNDER CARBON</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">A segurança dos pilotos profissionais sempre foi a prioridade dos organizadores dos principais eventos de moto do mundo. Com a evolução constante do esporte, e as motos cada vez mais rápidas e os tempos mais baixos, a Federação Internacional de Motociclismo (FIM) se viu obrigada a cobrar mais aperfeiçoamentos dos fabricantes, que passaram por novos testes para homologar os seus equipamentos.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Mesmo com o modelo ARROW já consolidado e dentro das novas normas mais rigorosas de segurança, a LS2 foi além, dando vida ao THUNDER, capacete que foi desenvolvido dentro das pistas, com milhares de testes em laboratório e muitas horas de túnel de vento.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O design do THUNDER teve cada linha cuidadosamente pensada para alcançar o melhor equilíbrio. O casco é fabricado em Carbono 6K (6.000 fios de carbono por trama), resultando em um capacete mais leve e resistente, com somente 1.400 kg (+- 50g). A leveza do THUNDER vem acompanhada de uma estabilidade precisa, garantida pela forma Long Oval junto ao Super Spoiler utilizado na parte traseira, que minimiza o arrasto do vento direcionando todo ar para o (cupim) do macacão.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O Thunder tem três tamanhos de casco e EPS de multidensidades que elevam a capacidade de absorção de impactos. O encaixe perfeito de cada peça se dá à LS2 3D Technology, onde as partes cortadas a laser proporcionam um fit confortável e preciso. O fecho é feito pelo clássico sistema Duplo-D, com cintas reforçadas.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">A viseira de 3 mm do THUNDER tem prático sistema de encaixe e extenso campo de visão, que facilitam a pilotagem em altas velocidades. O sistema de suporte todo em metal é inovador e muito prático de ser usado. A viseira também recebe tratamentos anti-risco, proteção UV, preparação para Pinlock® e Tear-off.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Toda forração do THUNDER é cortada a laser, recebe tratamento hipoalergênico e pode ser removível para lavagem. O novo capacete já vem acompanhada de uma mochila de mão, tear-off, viseira fumê e Pinlock®.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471017419034</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">49.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471015878938</id>
+    <published>2024-06-24T17:50:13-03:00</published>
+    <updated>2024-06-24T17:50:13-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-thunder-carbon-space"/>
+    <title>CAPACETE LS2 THUNDER CARBON SPACE</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/172457-300-300.webp?v=1719262187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            49.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph">LS2 THUNDER CARBON<br>A segurança dos pilotos profissionais sempre foi a prioridade dos organizadores dos principais eventos de moto do mundo. Com a evolução constante do esporte, e as motos cada vez mais rápidas e os tempos mais baixos, a Federação Internacional de Motociclismo (FIM) se viu obrigada a cobrar mais aperfeiçoamentos dos fabricantes, que passaram por novos testes para homologar os seus equipamentos.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Mesmo com o modelo ARROW já consolidado e dentro das novas normas mais rigorosas de segurança, a LS2 foi além, dando vida ao THUNDER, capacete que foi desenvolvido dentro das pistas, com milhares de testes em laboratório e muitas horas de túnel de vento.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O design do THUNDER teve cada linha cuidadosamente pensada para alcançar o melhor equilíbrio. O casco é fabricado em Carbono 6K (6.000 fios de carbono por trama), resultando em um capacete mais leve e resistente, com somente 1.400 kg (+- 50g). A leveza do THUNDER vem acompanhada de uma estabilidade precisa, garantida pela forma Long Oval junto ao Super Spoiler utilizado na parte traseira, que minimiza o arrasto do vento direcionando todo ar para o (cupim) do macacão.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O Thunder tem três tamanhos de casco e EPS de multidensidades que elevam a capacidade de absorção de impactos. O encaixe perfeito de cada peça se dá à LS2 3D Technology, onde as partes cortadas a laser proporcionam um fit confortável e preciso. O fecho é feito pelo clássico sistema Duplo-D, com cintas reforçadas.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">A viseira de 3 mm do THUNDER tem prático sistema de encaixe e extenso campo de visão, que facilitam a pilotagem em altas velocidades. O sistema de suporte todo em metal é inovador e muito prático de ser usado. A viseira também recebe tratamentos anti-risco, proteção UV, preparação para Pinlock® e Tear-off.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Toda forração do THUNDER é cortada a laser, recebe tratamento hipoalergênico e pode ser removível para lavagem. O novo capacete já vem acompanhada de uma mochila de mão, tear-off, viseira fumê e Pinlock®</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471015878938</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">49.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9471014371610</id>
+    <published>2024-06-24T17:48:21-03:00</published>
+    <updated>2024-06-24T17:48:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/capacete-ls2-thunder-carbon-racing-1-azul"/>
+    <title>CAPACETE LS2 THUNDER CARBON RACING 1 AZUL</title>
+    <s:type></s:type>
+    <s:vendor>ELF BAR BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/169035-300-300.webp?v=1719261928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>ELF BAR BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy ls2-store-components-0-x-paragraph"><span class="b ls2-store-components-0-x-strong">LS2 THUNDER CARBON</span></p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">A segurança dos pilotos profissionais sempre foi a prioridade dos organizadores dos principais eventos de moto do mundo. Com a evolução constante do esporte, e as motos cada vez mais rápidas e os tempos mais baixos, a Federação Internacional de Motociclismo (FIM) se viu obrigada a cobrar mais aperfeiçoamentos dos fabricantes, que passaram por novos testes para homologar os seus equipamentos.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Mesmo com o modelo ARROW já consolidado e dentro das novas normas mais rigorosas de segurança, a LS2 foi além, dando vida ao THUNDER, capacete que foi desenvolvido dentro das pistas, com milhares de testes em laboratório e muitas horas de túnel de vento.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O design do THUNDER teve cada linha cuidadosamente pensada para alcançar o melhor equilíbrio. O casco é fabricado em Carbono 6K (6.000 fios de carbono por trama), resultando em um capacete mais leve e resistente, com somente 1.400 kg (+- 50g). A leveza do THUNDER vem acompanhada de uma estabilidade precisa, garantida pela forma Long Oval junto ao Super Spoiler utilizado na parte traseira, que minimiza o arrasto do vento direcionando todo ar para o (cupim) do macacão.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">O Thunder tem três tamanhos de casco e EPS de multidensidades que elevam a capacidade de absorção de impactos. O encaixe perfeito de cada peça se dá à LS2 3D Technology, onde as partes cortadas a laser proporcionam um fit confortável e preciso. O fecho é feito pelo clássico sistema Duplo-D, com cintas reforçadas.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">A viseira de 3 mm do THUNDER tem prático sistema de encaixe e extenso campo de visão, que facilitam a pilotagem em altas velocidades. O sistema de suporte todo em metal é inovador e muito prático de ser usado. A viseira também recebe tratamentos anti-risco, proteção UV, preparação para Pinlock® e Tear-off.</p>
+<p class="lh-copy ls2-store-components-0-x-paragraph">Toda forração do THUNDER é cortada a laser, recebe tratamento hipoalergênico e pode ser removível para lavagem. O novo capacete já vem acompanhada de uma mochila de mão, tear-off, viseira fumê e Pinlock®.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9471014371610</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9453438173466</id>
+    <published>2024-06-12T12:03:33-03:00</published>
+    <updated>2024-06-12T12:03:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/jack-daniels-whisky-americano-old-n-7-jack-daniels-1-litro-1"/>
+    <title>Jack Daniels Whisky Americano Old N° 7 Jack Daniels 1 Litro</title>
+    <s:type></s:type>
+    <s:vendor>LOJAS NIKE BRASIL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/old_no7_01_0.webp?v=1718203514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>LOJAS NIKE BRASIL<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            142.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-gtm-vis-first-on-screen2085569_898="101459" data-gtm-vis-total-visible-time2085569_898="100" data-gtm-vis-has-fired2085569_898="1" data-gtm-vis-first-on-screen2085569_278="101465" data-gtm-vis-total-visible-time2085569_278="100" data-gtm-vis-has-fired2085569_278="1" data-gtm-vis-first-on-screen2085569_799="101480" data-gtm-vis-total-visible-time2085569_799="100" data-gtm-vis-has-fired2085569_799="1">SUAVIZADO EM CARVÃO DE MAPLE. GOTA A GOTA.</h2>
+<div class="product-detail-content">
+<p>Suavizado gota a gota através de três metros de carvão de maple e maturado em barris de fabricação própria. Nosso Tennessee Whiskey não segue um calendário. Está pronto quando nossos mestres destiladores dizem que está. Nós o julgamos pela maneira que ele parece. Pelo seu aroma. E, claro, pelo seu sabor. É assim que Jack Daniel fazia há mais de um século. E é assim que ainda fazemos hoje.</p>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9453438173466</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">142.41</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

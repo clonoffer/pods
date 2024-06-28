@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elfbarloja.online/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elfbarloja.online/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elfbarloja.online/collections/colecao-elf-bar.atom"/>
+  <title>ELF BAR BRASIL</title>
+  <updated>2024-06-05T18:25:52-03:00</updated>
+  <author>
+    <name>ELF BAR BRASIL</name>
+  </author>
+  <entry>
+    <id>https://elfbarloja.online/products/9431789175066</id>
+    <published>2024-06-05T18:25:52-03:00</published>
+    <updated>2024-06-05T18:25:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/pod-descartavel-elf-bar-ew-9000-kit-lancamento-com-bateria-2-refis-1"/>
+    <title>Pod Descartável Elf Bar EW 9000 Kit Lançamento com Bateria + 2 Refis</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Pod-Descartavel-Elf-Bar-EW-9000-300x300.jpg?v=1717622006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            159.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Pod Descartável Elf Bar EW 9000</h2>
+<p>O Pod Descartável Elf Bar EW 9000 oferece uma experiência de vaping premium em um dispositivo compacto e fácil de usar. Com um design elegante e ergonômico, este pod descartável é perfeito para vaporização em movimento, sem a necessidade de recargas ou ajustes complicados.</p>
+<h4>Sabor Intenso e Suave</h4>
+<p>Cada pod é pré-preenchido com uma seleção cuidadosa de e-liquids de alta qualidade, proporcionando um sabor intenso e suave a cada puff. Com uma variedade de opções de sabores disponíveis, você pode escolher o que melhor se adapta ao seu paladar e desfrutar de uma experiência de vaping excepcional.</p>
+<h4>Portabilidade e Conveniência</h4>
+<p>Com sua construção leve e tamanho compacto, o Elf Bar EW 9000 é perfeito para levar consigo para onde quer que vá. Não há necessidade de carregar baterias ou se preocupar com vazamentos de líquido. Basta abrir, vaporizar e descartar quando estiver pronto para uma nova experiência de vaping.</p>
+<p> </p>
+<h4><strong>Descrição de sabores:</strong></h4>
+<ul>
+<li>
+<strong>Blue Razz Ice:<span> </span></strong>Framboesa Azul</li>
+<li>
+<strong>California Cherry:<span> </span></strong>Cereja</li>
+<li>
+<strong>Cherry Strazz:<span> </span></strong>Bala de cereja</li>
+<li>
+<strong>Dragon Strawnana:<span> </span></strong>Pitaia, morango e banana</li>
+<li>
+<strong>Grape Ice:<span> </span></strong>Uva com toque de menta</li>
+<li>
+<strong>Miami Mint:<span> </span></strong>Menta</li>
+<li>
+<strong>Sour Lush Gummy:<span> </span></strong>Bala de goma doce e azedinha</li>
+<li>
+<strong>Watermelon Ice: </strong>Melancia com toque de menta</li>
+</ul>
+<p> </p>
+<h4><strong>Especificações:</strong></h4>
+<ul>
+<li>Quantidade aproximada de puxadas: 9.000</li>
+<li>Capacidade do E-liquído: 13ml</li>
+<li>Capacidade da Bateria: 820mah – Conector Tipo-C</li>
+<li>Capacidade da Bateria Interna do Refil: 200mah (Conecte na Bateria para recarregar o Refil)</li>
+<li>Tipo de Conexão: Magnética</li>
+<li>Conector: Tipo-C</li>
+<li>Tipo de resistência: Mesh(malha)</li>
+<li>Resistência: 1.2Ohm</li>
+<li>Quantidade de nicotina: 5%</li>
+<li>Composição do liquido: Propilenoglicol, glicerina vegetal, essência de sabor, nicotina sintetica</li>
+</ul>
+<p> </p>
+<h4><strong>O que esta incluso:</strong></h4>
+<ul>
+<li>1 Bateria Elf Bar EW9000</li>
+<li>2 Refis Elf Bar EW9000</li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431789175066</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">159.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9431787962650</id>
+    <published>2024-06-05T18:23:37-03:00</published>
+    <updated>2024-06-05T18:23:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/elf-bar-lowit-mixed-berries-5500-puff-pod-descartavel"/>
+    <title>Elf Bar Lowit Mixed Berries 5500 Puff Pod Descartável</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Elf-Bar-Lowit-Mixed-Berries-5500-Puff-Pod-descartavel-300x300.jpg?v=1717622600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            59.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Mixed Berries 5500 Puff Pod Descartável</span></span></h2>
+<p> </p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Mixed Berries 5500 Puff Pod Descartável, design conveniente, portátil e adequado da Elf Bar Lowit aumentou ainda mais o nível e traz maior conforto e satisfação aos sentidos. Sua nova bobina de malha cria enormes nuvens de nicotina que explodem em sua boca com a plenitude dos sabores. Eles vêm em duas variações, onde uma oferta mais de 2.500 puffs e outra mais de 5.500. O design e o desempenho atualizados garantem que você fique satisfeito com todos os aspectos deste projeto.</span></span></p>
+<p> </p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Mixed Berries</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Um mix de frutas vermelhas super excitante que o deixará completamente satisfeito e revigorado com sua luxúria</span></span></p>
+<p> </p>
+<h3><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Características:</span></span></h3>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sopros: 5500</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Dimensões: 66x40x20mm</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E-líquido: 14ml</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nicotina: 5% ou 50mg</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Resistência: Malha (Malha)</span></span></li>
+</ul>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O que está incluído:</span></span></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1 Elf Bar Lowit Mixed Berries 5500 Puff Pod Descartável</span></span></li>
+</ul>
+<p> </p>
+<h4 class="title"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">História da marca</span></span></h4>
+<div class="des">
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Desde 2018, a ELFBAR vem a fazer um esforço em produtos inovadores através de um sistema de aquecimento inteligente. Enquanto isso, descobrimos que a necessidade de sabor natural e formas mais seguras de vaping estão prosperando ano a ano.</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Para obter melhores gostos e transferir uma experiência repetível aos nossos clientes, os produtos têm sido obedientes à palavra-chave da ELFBAR: mais seguro e melhor. Depois de milhares de experimentos, encontramos métodos de fazer nossos produtos com materiais menos exigentes, sabor puro e design delicado, apenas para apresentar produtos que certamente atenderão à sua demanda.</span></span></p>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431787962650</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">59.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9431787077914</id>
+    <published>2024-06-05T18:21:46-03:00</published>
+    <updated>2024-06-05T18:21:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/elf-bar-lowit-energy-5500-puff-pod-descartavel"/>
+    <title>Elf Bar Lowit Energy 5500 Puff Pod Descartável</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Elf-Bar-Lowit-Energy-5500-Puff-Pod-descartavel-300x300.jpg?v=1717622490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            59.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Energy 5500 Puff Pod Descartável</span></span></h2>
+<p> </p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Energy 5500 Puff Pod Descartável , design conveniente, portátil e adequado da Elf Bar Lowit aumentou ainda mais o nível e traz maior conforto e satisfação aos sentidos. Sua nova bobina de malha cria enormes nuvens de nicotina que explodem em sua boca com a plenitude dos sabores. Eles vêm em duas variações, onde uma oferta mais de 2.500 puffs e outra mais de 5.500. O design e o desempenho atualizados garantem que você fique satisfeito com todos os aspectos deste projeto.</span></span></p>
+<p> </p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Energy</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Apresente sua alma vaping com toneladas de frescor! O e-suco energético da Elf Lowit traz os melhores hits de nicotina para você. É um sabor para o dia todo que vai esmagar seu paladar com as melhores vibrações.</span></span></p>
+<p> </p>
+<p> </p>
+<h3><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Características:</span></span></h3>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sopros: 5500</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Dimensões: 66x40x20mm</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E-líquido: 14ml</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nicotina: 5% ou 50mg</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Resistência: Malha (Malha)</span></span></li>
+</ul>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O que está incluído:</span></span></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1 Elf Bar Lowit Energy 5500 Puff Pod Descartável</span></span></li>
+</ul>
+<p> </p>
+<h4 class="title"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">História da marca</span></span></h4>
+<div class="des">
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Desde 2018, a ELFBAR vem a fazer um esforço em produtos inovadores através de um sistema de aquecimento inteligente. Enquanto isso, descobrimos que a necessidade de sabor natural e formas mais seguras de vaping estão prosperando ano a ano.</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Para obter melhores gostos e transferir uma experiência repetível aos nossos clientes, os produtos têm sido obedientes à palavra-chave da ELFBAR: mais seguro e melhor. Depois de milhares de experimentos, encontramos métodos de fazer nossos produtos com materiais menos exigentes, sabor puro e design delicado, apenas para apresentar produtos que certamente atenderão à sua demanda.</span></span></p>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431787077914</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">59.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9431786291482</id>
+    <published>2024-06-05T18:20:14-03:00</published>
+    <updated>2024-06-05T18:20:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/elf-bar-lowit-grape-5500-puff-pod-descartavel"/>
+    <title>Elf Bar Lowit Grape 5500 Puff Pod Descartável</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Elf-Bar-Lowit-Grape-5500-Puff-Pod-descartavel-300x300.jpg?v=1717622398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            59.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Uva 5500 Puff Pod Descartável</span></span></h2>
+<p> </p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar Lowit Grape 5500 Puff Pod Descartável, design conveniente, portátil e adequado da Elf Bar Lowit aumentou ainda mais o nível e traz maior conforto e satisfação aos sentidos. Sua nova bobina de malha cria enormes nuvens de nicotina que explodem em sua boca com a plenitude dos sabores. Eles vêm em duas variações, onde uma oferta mais de 2.500 puffs e outra mais de 5.500. O design e o desempenho atualizados garantem que você fique satisfeito com todos os aspectos deste projeto.</span></span></p>
+<p> </p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Uva</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – É simples, mas extraordinário quando se trata de vaping com nuvens Elf Lowit. Este e-suco de uva é o deleite que você nunca esqueceria.</span></span></p>
+<p> </p>
+<h3><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Características:</span></span></h3>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sopros: 5500</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Dimensões: 66x40x20mm</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E-líquido: 14ml</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Nicotina: 5% ou 50mg</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Resistência: Malha (Malha)</span></span></li>
+</ul>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O que está incluído:</span></span></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1 Elf Bar Lowit Grape 5500 Puff Pod Descartável</span></span></li>
+</ul>
+<p> </p>
+<h4 class="title"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">História da marca</span></span></h4>
+<div class="des">
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Desde 2018, a ELFBAR vem a fazer um esforço em produtos inovadores através de um sistema de aquecimento inteligente. Enquanto isso, descobrimos que a necessidade de sabor natural e formas mais seguras de vaping estão prosperando ano a ano.</span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Para obter melhores gostos e transferir uma experiência repetível aos nossos clientes, os produtos têm sido obedientes à palavra-chave da ELFBAR: mais seguro e melhor. Depois de milhares de experimentos, encontramos métodos de fazer nossos produtos com materiais menos exigentes, sabor puro e design delicado, apenas para apresentar produtos que certamente atenderão à sua demanda.</span></span></p>
+</div>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431786291482</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">59.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9431785144602</id>
+    <published>2024-06-05T18:18:28-03:00</published>
+    <updated>2024-06-05T18:18:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/elf-bar-ti7000-puffs-funky-republic-pod-descartavel"/>
+    <title>Elf Bar TI7000 Puffs Funky Republic – Pod Descartável</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Elf-Bar-T17000-Funky-Republic-Pod-Descartavel-1-300x300_aa684bc0-a992-4d88-8730-3b1ba53161fb.jpg?v=1717622285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            84.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar TI7000 Puffs Funky Republic</span></span></h2>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Explore a exuberância do Pod Descartável Elf Bar TI7000 Puffs Funky Republic. Este dispositivo inovador oferece uma experiência de vapor de alta capacidade, projetada para os amantes de sabores intensos e duradouros. Com até 7000 baforadas, é como ter um festival de sabores na palma da sua mão.</span></span></p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sabor Intenso e Duradouro</span></span></strong></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O Pod Descartável Elf Bar TI7000 Funky Republic proporciona um sabor intenso e duradouro que satisfaz seus desejos de vape. Cada puxada é uma jornada sensorial, trazendo à tona sabores cativantes e envolventes que tornam a experiência de vape única e adequada.</span></span></p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Praticidade Descartável</span></span></strong></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Com o design complexo, o Elf Bar TI7000 Funky Republic elimina a necessidade de trocar cartuchos. Basta desfrutar do vape até atingir o limite de puffs e, ao terminar, descartar o dispositivo de maneira conveniente. Isso o torna ideal para viagens, momentos de lazer e uso diário.</span></span></p>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Descrição de sabores:</span></span></h4>
+<ul>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Berry Mix – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Mistura de frutas vermelhas</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Blossom Mint – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Toque floral e menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Blue Razz Ice</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Mirtilo e Framboesa com um toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Blueberry Duo Ice</span></span><span> </span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> -Mirtilo e menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Blueberry Rose Mint – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Mirtilo com toque floral e menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">California Cherry</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Cereja com um toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Maçã Cantaloupe</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Maça verde e melão</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Ice Mint</span></span><span> </span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Hortelã com toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Beijo de Manga – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Mangá</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Melon Berry Bomb – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Melão e frutas vermelhas</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Mixed Fruit – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Mix de frutas tropicais</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Orange Starfruit Kiwi Ice – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Laranja, carambola e kiwi com toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Maracujá Kiwi Limão</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Maracujá, kiwi e limão</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Melancia Pêssego Manga</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Pêssego, manga e melancia</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Pineapple Coconut Ice</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Abacaxi e coco com um toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Pink Bomb</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Framboesa, limão e toranja com um toque de creme</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Toranja Rosa – </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> Framboesa e toranja</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Pomelo Uva Pérola</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Uva e toranja</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Rinbo Cloud</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Frutas vermelhas cristalizadas</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Banana Morango</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Morango e banana</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Morango Duo Ice</span></span><span> </span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Morango e menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Super Berry</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Mix de frutas vermelhas com um toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Ilha Tropical</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Manga, espécies e outras frutas tropicais</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Tropical Rainbow Blast</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Abacaxi, manga e outras frutas tropicais</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Watermelon Ice</span></span></strong><span> </span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Melancia com um toque de menta</span></span>
+</li>
+<li>
+<strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Melancia Nana Duo Ice </span></span></strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> – Melancia, banana e menta</span></span>
+</li>
+</ul>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Especificações:</span></span></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Quantidade aproximada de puxadas: 7000</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Bateria: 600mAh</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Capacidade de E-líquido: 12,8ml</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">LED indicador de bateria</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Conector: Tipo-C</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Quantidade de nicotina: 5%</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Composição do líquido: Propilenoglicol, glicerina vegetal, essência de sabor, nicotina sintética</span></span></li>
+</ul>
+<p> </p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O que está incluído:</span></span></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1 Pod Descartável Elf Bar TI7000 Puffs Funky Republic</span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431785144602</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">84.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elfbarloja.online/products/9431784161562</id>
+    <published>2024-06-05T18:16:58-03:00</published>
+    <updated>2024-06-05T18:16:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://elfbarloja.online/products/elf-bar-bc-10000-pod-descartavel-1"/>
+    <title>Elf Bar BC 10000 – Pod Descartável</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0881/7170/8698/files/Elf-Bar-BC-1000-Pod-Descartavel-174x178_f518e40d-f2be-4878-bf67-62686b9b7e8a.jpg?v=1717622179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>My Store<br>
+        <strong>Tipo: </strong><br>
+        <strong>Preço: </strong>
+            109.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Elf Bar BC 10000 – Pod Descartável</span></span></h2>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Descubra o prazer do vaping com o Pod Descartável Elf Bar BC 10000. Este dispositivo compacto e poderoso oferece uma experiência vaping excepcional, combinando sabor excepcional com conveniência.</span></span></p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Sabor Rico e Satisfatório em Cada Vaporização</span></span></strong></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O BC 10000 é conhecido por sua capacidade de fornecer um sabor rico e esmagador em cada vaporização. Cada puxada é uma jornada de sabor que satisfaz seus sentidos, como se estivesse saboreando sua essência favorita.</span></span></p>
+<p><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Design Descartável para Facilidade e Conveniência</span></span></strong></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Com o design rigoroso, não há necessidade de bobinas de trocater. Basta desfrutar de seu vaping e, quando o pod estiver vazio, descarte-o de forma responsável. É a escolha ideal para quem valoriza a simplicidade.</span></span></p>
+<p> </p>
+<h4><br></h4>
+<h4><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Especificações:</span></span></strong></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Quantidade aproximada de puxadas: 10.000</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Bateria: 650mah</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Conector: Tipo-C</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Tipo de resistência: Mesh(malha)</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Quantidade de nicotina: 5%</span></span></li>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Composição do líquido: Propilenoglicol, glicerina vegetal, essência de sabor, nicotina sintética</span></span></li>
+</ul>
+<p> </p>
+<h4><strong><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O que está incluído:</span></span></strong></h4>
+<ul>
+<li><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1 Pod Descartável Elf Bar BC 10.000</span></span></li>
+</ul>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elfbarloja.online/products/9431784161562</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">109.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
